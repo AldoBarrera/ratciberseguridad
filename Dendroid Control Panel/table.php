@@ -1,5 +1,5 @@
 <?php
-  $url = "localhost";
+  $url = "ratciberseguridad.000webhostapp.com";
 
   if (file_exists("config.php")) {
     include("config.php");
@@ -93,6 +93,7 @@
 	</thead>
 	<tbody>
   <?php foreach ($connect->query($getslaves) as $row) {
+      echo "iteration";
     $today = time();
 	$origdate = strtotime($row['update']);
 	$secdiff = $today - $origdate;

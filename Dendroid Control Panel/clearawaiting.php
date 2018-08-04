@@ -1,5 +1,5 @@
 <?
-$url = "localhost";
+$url = "ratciberseguridad.000webhostapp.com";
 
 if (file_exists("config.php")) {
   include("config.php");

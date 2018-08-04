@@ -1,5 +1,5 @@
 <?php
-$url = "localhost";
+$url = "ratciberseguridad.000webhostapp.com";
 
 include("functions.php");
 

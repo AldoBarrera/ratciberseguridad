@@ -23,7 +23,7 @@
   include("functions.php");
   
   $getslaves = 'SELECT * FROM bots ORDER BY id';
-  
+  echo($getslaves);
 ?>
 <!DOCTYPE html>
 <html>

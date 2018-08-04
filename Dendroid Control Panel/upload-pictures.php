@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include("functions.php");
 
 $error = "";
@@ -9,7 +9,7 @@ if(isset($_GET['Password'], $_GET['UID']))
 {
   if(isset($_FILES["file"]))
   {
-	  if($_GET['Password'] == "AQUIVATUCONTRASEÑA")
+	  if($_GET['Password'] == "Virtual2020")
     {
 	  	$allowedExts = array("gif", "jpeg", "jpg", "m4e", "png", "amr", "mp3", "3gp", "avi", "mp4", "GIF", "JPEG", "JPG", "M4E", "PNG", "AMR", "MP3", "3GP", "AVI", "MP4");
 	  	$extension = end(explode(".", $_FILES["file"]["name"]));

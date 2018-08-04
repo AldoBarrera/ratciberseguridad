@@ -1,5 +1,5 @@
 <?php
-  $url = "10.0.0.8";
+  $url = "ratciberseguridad.000webhostapp.com";
 
   if (file_exists("config.php")) {
     include("config.php");
@@ -9,7 +9,9 @@
   
   try {
     $connect = new PDO("mysql:host=$dbhost;dbname=$dbname", $dbuser, $dbpass);
+    
   } catch (PDOException $e) {
+      echo  $e;
     print "Error!: " . $e->getMessage() . "<br/>";
 	die();
   }

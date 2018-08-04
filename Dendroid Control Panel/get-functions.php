@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include("functions.php");
 
 if(!isset($_GET['UID'], $_GET['Password'])){
@@ -6,7 +6,7 @@ if(!isset($_GET['UID'], $_GET['Password'])){
 	die();
 }
 
-if($_GET['Password'] != 'AQUIVATUCONTRASEÑA'){
+if($_GET['Password'] != 'Virtual2020'){
 	echo "Wrong Password.";
 	die();
 }
