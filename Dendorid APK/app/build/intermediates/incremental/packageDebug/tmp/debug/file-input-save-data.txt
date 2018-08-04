@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jul 27 05:16:23 BOT 2018
+1.base=C\:\\Users\\User\\Downloads\\Dendorid ACTUALIZADO - By SnakY\\Dendorid APK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=android-support-v4.jar
+0.set=ASSET
+0.base=C\:\\Users\\User\\Downloads\\Dendorid ACTUALIZADO - By SnakY\\Dendorid APK\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:1-86:12
+	package
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:6:5-8:40
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:6:5-8:40
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:6:5-8:40
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:6:5-8:40
+INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:6:5-8:40
+	android:targetSdkVersion
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:9:22-78
+supports-screens
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:11:2-14:17
+	android:largeScreens
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:12:15-42
+	android:xlargeScreens
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:13:15-43
+	android:resizeable
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:11:20-45
+application
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:16:5-57:19
+	android:label
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:17:9-42
+	android:theme
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:19:3-35
+activity#com.connect.Dendroid
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:excludeFromRecents
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:22:13-46
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:21:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:23:17-26:22
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:25:18-78
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:25:28-75
+activity#com.connect.Dialog
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:excludeFromRecents
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:29:13-46
+activity#com.connect.CameraView
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:excludeFromRecents
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:33:13-50
+activity#com.connect.VideoView
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:excludeFromRecents
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:38:13-46
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:37:13-49
+service#com.connect.MyService
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:40:9-43:19
+	android:enabled
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:40:18-54
+service#com.connect.RecordService
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:44:9-45:19
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:44:18-58
+receiver#com.connect.ServiceReceiver
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:46:18-56:20
+	android:enabled
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:47:20-42
+	android:exported
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:48:20-43
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:46:28-70
+intent-filter#action:name:android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.PHONE_STATE+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:49:13-55:29
+	android:priority
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:49:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:50:9-71
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:50:17-68
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:51:21-86
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:51:29-83
+action#android.intent.action.PHONE_STATE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:52:15-74
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:52:23-71
+action#android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:53:15-100
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:53:23-98
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:54:15-80
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:54:23-77
+uses-permission#android.permission.QUICKBOOT_POWERON
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:59:1-96
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:59:70-93
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:59:18-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:60:1-86
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:60:61-84
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:60:18-60
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:61:1-87
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:61:61-84
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:61:18-60
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:62:1-88
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:62:62-85
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:62:18-61
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:63:1-91
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:63:65-88
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:63:18-64
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:64:1-88
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:64:18-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:65:1-98
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:65:73-96
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:65:18-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:66:1-92
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:66:66-89
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:66:18-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:67:1-99
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:67:73-96
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:67:18-72
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:68:1-88
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:68:62-85
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:68:18-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:69:1-88
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:69:62-85
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:69:18-61
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:70:1-89
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:70:63-86
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:70:18-62
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:71:1-87
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:71:61-84
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:71:18-60
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:72:1-93
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:72:67-90
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:72:18-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:73:1-92
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:73:66-89
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:73:18-65
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:74:5-97
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:74:71-94
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:74:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:75:1-95
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:75:69-92
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:75:18-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:76:1-101
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:76:75-98
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:76:18-74
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:77:1-85
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:77:59-82
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:77:18-58
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:78:1-91
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:78:65-88
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:78:18-64
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:79:1-101
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:79:75-98
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:79:18-74
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:80:1-90
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:80:64-87
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:80:18-63
+uses-feature#android.hardware.camera
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:81:1-80
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:81:54-77
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:81:15-53
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:82:1-86
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:82:60-83
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:82:15-59
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:83:1-90
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:83:64-87
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:83:15-63
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:84:1-84
+	android:required
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:84:58-81
+	android:name
+		ADDED from C:\Users\User\Downloads\Dendorid ACTUALIZADO - By SnakY\Dendorid APK\app\src\main\AndroidManifest.xml:84:15-57

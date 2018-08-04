@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jul 27 01:13:09 BOT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\Downloads\\Dendorid ACTUALIZADO - By SnakY\\Dendorid APK\\app\\build\\intermediates\\assets\\debug
+0.path=android-support-v4.jar
+0.set=ASSET
+count=1
