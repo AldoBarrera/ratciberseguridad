@@ -1,6 +1,6 @@
 #Internal package file, do not edit.
-#Fri Jul 27 05:16:23 BOT 2018
-1.base=C\:\\Users\\User\\Downloads\\Dendorid ACTUALIZADO - By SnakY\\Dendorid APK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+#Sat Aug 04 23:14:02 BOT 2018
+1.base=C\:\\Users\\User\\Downloads\\Dendorid ACTUALIZADO - By SnakY\\Dendorid APK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\114
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
