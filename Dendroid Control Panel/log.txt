@@ -1,0 +1,546 @@
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10891
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39666
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861092.082
+    [REQUEST_TIME] => 1537861092
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_37_55.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpA931.tmp
+            [error] => 0
+            [size] => 10751
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10891
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39723
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861199.254
+    [REQUEST_TIME] => 1537861199
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_37_55.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4BD6.tmp
+            [error] => 0
+            [size] => 10751
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 13441
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39780
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861199.333
+    [REQUEST_TIME] => 1537861199
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_39_36.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4C25.tmp
+            [error] => 0
+            [size] => 13301
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10463
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39785
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861199.401
+    [REQUEST_TIME] => 1537861199
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_39_53.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4C65.tmp
+            [error] => 0
+            [size] => 10323
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10891
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39784
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861255.534
+    [REQUEST_TIME] => 1537861255
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_37_55.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php27B2.tmp
+            [error] => 0
+            [size] => 10751
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 13441
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39817
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861255.616
+    [REQUEST_TIME] => 1537861255
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_39_36.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2802.tmp
+            [error] => 0
+            [size] => 13301
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+File has been uploaded
+-----------------------------------------
+Server: 
+Array
+(
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 7.1.2; ACCIONE Build/N2G47H)
+    [HTTP_HOST] => 10.0.0.8
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 10463
+    [PATH] => C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Common Files\Autodesk Shared\;C:\xampp\php;C:\composer;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\.meteor\;C:\Users\User\AppData\Roaming\Composer\vendor\bin;C:\Users\User\AppData\Roaming\npm;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 Server at 10.0.0.8 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8
+    [SERVER_NAME] => 10.0.0.8
+    [SERVER_ADDR] => 10.0.0.8
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.0.7
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Dendroid/new-upload.php
+    [REMOTE_PORT] => 39819
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=83fc51821a764bca&Password=Virtual2020
+    [REQUEST_URI] => /dendroid/new-upload.php?UID=83fc51821a764bca&Password=Virtual2020
+    [SCRIPT_NAME] => /dendroid/new-upload.php
+    [PHP_SELF] => /dendroid/new-upload.php
+    [REQUEST_TIME_FLOAT] => 1537861255.69
+    [REQUEST_TIME] => 1537861255
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2018_09_25_03_39_53.jpg
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2851.tmp
+            [error] => 0
+            [size] => 10323
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => 83fc51821a764bca
+    [Password] => Virtual2020
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------

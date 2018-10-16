@@ -1,5 +1,6 @@
 <?php
-$url = "ratciberseguridad.000webhostapp.com";
+include("configtemp.php");
+$url = $serverHost;
 
 include("functions.php");
 
