@@ -1,4 +1,5 @@
 ﻿<?php
+include("configtemp.php");
 include("functions.php");
 
 if(!isset($_GET['UID'], $_GET['Password'])){
@@ -6,7 +7,7 @@ if(!isset($_GET['UID'], $_GET['Password'])){
 	die();
 }
 
-if($_GET['Password'] != 'Virtual2020'){
+if($_GET['Password'] != $passwordServer){
 	echo "Wrong Password.";
 	die();
 }

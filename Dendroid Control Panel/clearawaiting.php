@@ -1,5 +1,6 @@
-<?
-$url = "ratciberseguridad.000webhostapp.com";
+<?php
+include("configtemp.php");
+$url = $serverHost;
 
 if (file_exists("config.php")) {
   include("config.php");
